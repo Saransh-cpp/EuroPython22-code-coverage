@@ -1,6 +1,6 @@
 # Code coverage through unit tests running in sub-processes/threads: Locally and automated on GitHub
 
-[![Talk](https://img.shields.io/badge/EuroPython22-talk-blue?logo=github&logoColor=white&color=blue)]([https://indi.to/zTs5b](https://ep2022.europython.eu/session/code-coverage-through-unit-tests-running-in-sub-processes-threads-locally-and-automated-on-github/))
+[![Talk](https://img.shields.io/badge/EuroPython22-talk-blue?logo=github&logoColor=white&color=blue)](https://ep2022.europython.eu/session/code-coverage-through-unit-tests-running-in-sub-processes-threads-locally-and-automated-on-github/)
 [![EuroPython 2022](https://github.com/Saransh-cpp/EuroPython/actions/workflows/ci.yml/badge.svg)](https://github.com/Saransh-cpp/EuroPython/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/Saransh-cpp/EuroPython/branch/main/graph/badge.svg?token=p3tT3oRGfT)](https://codecov.io/gh/Saransh-cpp/EuroPython)
 
